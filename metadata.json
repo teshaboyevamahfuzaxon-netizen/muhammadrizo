@@ -1,0 +1,6 @@
+{
+  "name": "Do'ktor Ali AI",
+  "description": "Doctor Ali premium savdo operatorlari uchun 7 bosqichli professional tahlil, SPIN sotuv metodologiyasi, e'tirozlarni yengish va interaktiv simulyatsiya tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
